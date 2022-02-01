@@ -12,6 +12,6 @@
 ## Resultado:
 
 <div align="center" >
-  <img src="" width="80%">
+  <img src="https://user-images.githubusercontent.com/78655591/151894529-64e85fd9-3b78-4d7a-a886-4b866a5484c3.JPG" width="80%">
 </div>
 
